@@ -1,0 +1,6 @@
+/venv
+.env
+app/scripts
+menu_hours.csv
+store_status.csv
+timezones.csv
